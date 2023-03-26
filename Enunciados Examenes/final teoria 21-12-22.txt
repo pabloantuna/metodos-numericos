@@ -1,0 +1,18 @@
+1) Metodos Iterativos de punto fijo
+a) Explique en que consisten los metodos iterativos de punto fijo
+b) Enuncie y demuestre una condicion suficiente para la existencia de un punto fijo
+c) Enuncie condiciones suficientes para la convergencia de un metodo iterativo de punto fijo
+d) Enuncie una condicion suficiente para la no convergencia a un determinado punto fijo
+e) Enuncie una condicion suficiente para la convergencia a un determinado punto fijo
+f) que puede decir acerca del orden de convergencia en los metodos iterativos de punto fijo?
+
+2) Minimos Cuadrados
+a) Explique en que consiste el metodo de minimos cuadrados
+b) Como se obtiene una solucion de minimos cuadrados?
+
+3) Teorema de Gershgorin
+a) Explique y demuestre el teorema de Gershgorin
+b) Que resultados teoricos complementan al teorema de Gershgorin?
+c) Que usos tiene el teorema?
+
+Se pide resolver si o si el ejercicio 1 y despues entre el 2 y el 3 elige el alumno cual hacer de los dos 

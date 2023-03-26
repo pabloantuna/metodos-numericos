@@ -1,0 +1,7 @@
+Final teórico Métodos:
+1)
+a) Describir la forma general de los métodos para resolución de sistemas de ecuaciones lineales.
+Que condiciones de convergencia se conocen para estos.
+b) Definir el método de Gauss-Seidel y describirlo como un método de iteracion matricial.
+2) Definir y dar las propiedades de los polinomios de Chebyshev.
+Explique su uso en aproximación de funciones
